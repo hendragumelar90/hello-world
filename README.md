@@ -1,1 +1,3 @@
 # hello-world
+Bismillah....
+saya baru belajar GitHub.
